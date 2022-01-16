@@ -1,7 +1,6 @@
 ## Esteban Vilca
 
-Your welcome to my portafolio.
-
+You are welcome to my data science portfolio.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
